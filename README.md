@@ -24,3 +24,4 @@
 |7|[反转数字](https://leetcode.com/problems/reverse-integer/) | [Java](./src/java/7.java)
 |139|[Word Break](https://leetcode.com/problems/word-break/description/) | [Python](./src/python/139.py)
 |128|[最长连续序列](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) | [Java](./src/java/128.java)
+|945|[最长连续序列](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Java](./src/java/945.java)
